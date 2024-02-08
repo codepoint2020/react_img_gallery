@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_img_gallery/static/css/main.cb5ad26c.css",
-    "main.js": "/react_img_gallery/static/js/main.1a68be2d.js",
+    "main.css": "/react_img_gallery/static/css/main.752c5cb6.css",
+    "main.js": "/react_img_gallery/static/js/main.031c57fb.js",
     "static/js/787.c11104e4.chunk.js": "/react_img_gallery/static/js/787.c11104e4.chunk.js",
     "static/media/gears-1236578_1280.jpg": "/react_img_gallery/static/media/gears-1236578_1280.9f9edda7022d9e9c37bb.jpg",
     "static/media/keyboard-70506_1280.jpg": "/react_img_gallery/static/media/keyboard-70506_1280.46d14222af3da5c96064.jpg",
@@ -11,12 +11,12 @@
     "static/media/sample1.jpg": "/react_img_gallery/static/media/sample1.3c72b95bbb6c4efbdf5b.jpg",
     "static/media/sample3.jpg": "/react_img_gallery/static/media/sample3.a92c41b851977e4abd99.jpg",
     "index.html": "/react_img_gallery/index.html",
-    "main.cb5ad26c.css.map": "/react_img_gallery/static/css/main.cb5ad26c.css.map",
-    "main.1a68be2d.js.map": "/react_img_gallery/static/js/main.1a68be2d.js.map",
+    "main.752c5cb6.css.map": "/react_img_gallery/static/css/main.752c5cb6.css.map",
+    "main.031c57fb.js.map": "/react_img_gallery/static/js/main.031c57fb.js.map",
     "787.c11104e4.chunk.js.map": "/react_img_gallery/static/js/787.c11104e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb5ad26c.css",
-    "static/js/main.1a68be2d.js"
+    "static/css/main.752c5cb6.css",
+    "static/js/main.031c57fb.js"
   ]
 }
